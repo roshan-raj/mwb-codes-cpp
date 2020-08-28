@@ -24,13 +24,12 @@ let decimal_to_binary = (number) => {
     let temp = number; // Temporary variable to store the input
 
     while (temp > 0) {
-        if (temp % 2 == 0) {
+        if (temp % 2 == 0) {  // For the remainder
             binary = "0" + binary;
         }
         else {
             binary = "1" + binary;
         }
-
         temp = Math.floor(temp / 2); // To round off the number, Temp is the quotient
     }
     return binary;
