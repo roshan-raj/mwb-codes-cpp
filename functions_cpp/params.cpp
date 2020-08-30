@@ -25,4 +25,4 @@ int main()
 In the above program, we have used a function that has one int parameter and one double parameter.
 We then pass num1 and num2 as arguments. 
 These values are stored by the function parameters n1 and n2 respectively.
-/*
+*/
