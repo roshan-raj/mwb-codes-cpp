@@ -1,6 +1,6 @@
 # Mentors Without Border Training
 
-This repository contains erxample codes for the Mentors Without Borders sessions
+This repository contains example codes for the Mentors Without Borders sessions
 
 # Powerpoint files for the sessions
 
