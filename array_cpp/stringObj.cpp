@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
     // Declaring a string object
-    string str;
+    string str; // String Object
+    // char str[]; // C String 
     cout << "Enter a string: ";
     getline(cin, str);
 

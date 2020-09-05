@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    int numbers[5];
+    int numbers[5]; //Declaration of array
 
     cout << "Enter 5 numbers: " << endl;
 

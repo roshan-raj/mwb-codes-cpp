@@ -20,12 +20,12 @@ int main()
     return 0;
 }
 
-void display(char s[])
+void display(char s[]) // C string
 {
     cout << "Entered char array is: " << s << endl;
 }
 
-void display(string s)
+void display(string s)  // String Object
 {
     cout << "Entered string is: " << s << endl;
 }

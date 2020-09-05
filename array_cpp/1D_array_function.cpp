@@ -6,7 +6,7 @@ using namespace std;
 
 // declare function to display marks
 // take a 1d array as parameter
-void display(int m[5])
+void display(int m[5]) // User defined function
 {
     cout << "Displaying marks: " << endl;
 
