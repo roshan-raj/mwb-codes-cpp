@@ -14,9 +14,9 @@ int main()
     Person p1;
 
     cout << "Enter Full name: ";
-    cin.get(p1.name, 50);
+    cin.get(p1.name, 50); // INput 1
     cout << "Enter age: ";
-    cin >> p1.age;
+    cin >> p1.age; // INput 2
     cout << "Enter salary: ";
     cin >> p1.salary;
 

@@ -5,10 +5,10 @@ using namespace std;
 enum seasons
 {
     spring = 34,
-    summer = 4,
+    summer,
     autumn = 9,
     winter = 32
-};
+} ;
 
 int main()
 {

@@ -10,14 +10,14 @@ enum designFlags
 
 int main()
 {
-    int myDesign = BOLD | UNDERLINE;
+    int myDesign = BOLD | UNDERLINE;  // Bold OR Underline
 
     //    00000001
     //  | 00000100
     //  ___________
     //    00000101
 
-    cout << myDesign;
+    cout << myDesign << endl ;
 
     return 0;
 }

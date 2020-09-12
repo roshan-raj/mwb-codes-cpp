@@ -11,7 +11,7 @@ enum suit
 
 int main()
 {
-    card = club;
+    card = hearts;
     cout << "Size of enum variable " << sizeof(card) << " bytes.";
     return 0;
 }

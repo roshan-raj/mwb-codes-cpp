@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-struct Person
+struct Person // User defined Data Type
 {
     char name[50];
     int age;
@@ -45,7 +45,7 @@ void displayData(Person p)
     cout << "Age: " << p.age << endl;
     cout << "Salary: " << p.salary;
 }
-
+ 
 // The output of this program is same as program above.
 
 // In this program, the structure variable p of type structure Person is defined under main() function.
