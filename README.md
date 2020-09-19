@@ -10,3 +10,4 @@ This repository contains example codes for the Mentors Without Borders sessions
 * [Session 4](https://drive.google.com/file/d/1Ej3Bih5iWM9piNerJxglcvOS6lfTrO_S/view?usp=sharing)
 * [Session 5](https://drive.google.com/file/d/1YVvfV1NqZLAkXwlOZC1Ut6IppkX9eUPS/view?usp=sharing)
 * [Session 6](https://drive.google.com/file/d/1wj030cXBqjp9P7c1JX9nbdXbrVEIQ1LI/view?usp=sharing)
+* [Session 7](https://drive.google.com/file/d/1UsSrEl6plMr4joQX4y-Z2gZfn70Dl4H9/view?usp=sharing)
