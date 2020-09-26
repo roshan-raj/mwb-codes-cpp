@@ -20,7 +20,7 @@ int addFive(Distance d)
 {
 
     //accessing private members from the friend function
-    d.meter += 5;
+    d.meter += 5; // d.meter = d.meter + 5
     return d.meter;
 }
 

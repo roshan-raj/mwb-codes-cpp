@@ -27,6 +27,11 @@ public:
     {
         cout << "I can bark! Woof woof!!" << endl;
     }
+
+    void sleep()
+    {
+        cout << "I can sleep! Derived" << endl;
+    }
 };
 
 int main()
