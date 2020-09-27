@@ -13,6 +13,7 @@ int main()
 	{
 		board();
 		player = (player % 2) ? 1 : 2;
+
 		cout << "Player " << player << ", enter a number:  ";
 		cin >> choice;
 		mark = (player == 1) ? 'X' : 'O';
@@ -39,7 +40,7 @@ int main()
 			cout << "Invalid move ";
 			player--;
 			cin.ignore();
-			cin.get();
+			cin.get(); //used for accessing character array
 		}
 		i = checkwin();
 		player++;
@@ -91,7 +92,7 @@ int checkwin()
 
 void board()
 {
-	system("clear");
+	system("clear"); //
 	cout << "\n\n\tTic Tac Toe\n\n";
 	cout << "Player 1 (X)  -  Player 2 (O)" << endl
 		 << endl;
