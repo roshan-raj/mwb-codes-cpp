@@ -32,4 +32,4 @@ This repository contains example codes for the Mentors Without Borders sessions
 [BlockChain in C++](https://github.com/teaandcode/TestChain) **||** [Blog on the above Source Code](https://davenash.com/2017/10/build-a-blockchain-with-c/)
 
 ### Session 10 - Git and GitHub
-[Download Git](https://git-scm.com/downloads) **||** [GitHub Handbook](https://guides.github.com/introduction/git-handbook/)
+[Download Git](https://git-scm.com/downloads) **||** [GitHub Handbook](https://guides.github.com/introduction/git-handbook/) **||** [Git Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) **||** [Github Guide](https://guides.github.com/activities/hello-world/)
