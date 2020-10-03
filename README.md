@@ -33,3 +33,6 @@ This repository contains example codes for the Mentors Without Borders sessions
 
 ### Session 10 - Git and GitHub
 [Download Git](https://git-scm.com/downloads) **||** [GitHub Handbook](https://guides.github.com/introduction/git-handbook/) **||** [Git Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) **||** [Github Guide](https://guides.github.com/activities/hello-world/)
+
+### Session 11 - C++ Pointers
+[PPT](https://drive.google.com/file/d/1v_0qORg1eW91lirvoZ77UIZQXr_Xm0pf/view?usp=sharing)
