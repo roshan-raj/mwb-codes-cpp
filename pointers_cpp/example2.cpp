@@ -19,7 +19,7 @@ void square2(int *n)
     cout << "address of n2 in square2(): " << n << "\n";
 
     // Explicit de-referencing to get the value pointed-to
-    *n *= *n;
+    *n *= *n; // n = n * n
 }
 //Pass-by-Reference with Reference Arguments
 void square3(int &n)
