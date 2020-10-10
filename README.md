@@ -35,4 +35,7 @@ This repository contains example codes for the Mentors Without Borders sessions
 [Download Git](https://git-scm.com/downloads) **||** [GitHub Handbook](https://guides.github.com/introduction/git-handbook/) **||** [Git Version Control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) **||** [Github Guide](https://guides.github.com/activities/hello-world/)
 
 ### Session 11 - C++ Pointers
-[PPT](https://drive.google.com/file/d/1v_0qORg1eW91lirvoZ77UIZQXr_Xm0pf/view?usp=sharing)
+[PPT](https://drive.google.com/file/d/1rTtCQoP1AIjSmnXf-6vcK9BzjAHoR25f/view?usp=sharing)
+
+### Session 12 - Data Structures
+[PPT](https://drive.google.com/file/d/1K9wLGp3vQWr1BKopwoe7CBDyoFhLtDIX/view?usp=sharing)
