@@ -35,11 +35,12 @@ void LinkList::Print()
     Node *p = START;
     while (p != NULL)
     {
-        cout << " " << p->data;
+        cout << " " << p->data; 
         ;
         p = p->link;
     }
 }
+// to access normal variables in structure use . for pointers use -> 
 // Adds a new node at the end of the linked list
 void LinkList::Append(int num)
 {
