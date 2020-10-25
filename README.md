@@ -39,3 +39,8 @@ This repository contains example codes for the Mentors Without Borders sessions
 
 ### Session 12 - Data Structures
 [PPT](https://drive.google.com/file/d/1K9wLGp3vQWr1BKopwoe7CBDyoFhLtDIX/view?usp=sharing)
+
+### Session 13 - Introduction to Database
+
+### Session 14 - Database Management System
+[PPT](https://drive.google.com/file/d/1LW59h9R8Myd7JdQ0t-GsHM1fYzs2fBYS/view?usp=sharing)
