@@ -44,3 +44,6 @@ This repository contains example codes for the Mentors Without Borders sessions
 
 ### Session 14 - Database Management System
 [PPT](https://drive.google.com/file/d/1LW59h9R8Myd7JdQ0t-GsHM1fYzs2fBYS/view?usp=sharing)
+
+### Session 15 - Setting Up MySQL
+[MySQL Server](https://dev.mysql.com/downloads/mysql/5.7.html) **||** [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
