@@ -44,3 +44,8 @@ This repository contains example codes for the Mentors Without Borders sessions
 
 ### Session 14 - Database Management System
 [PPT](https://drive.google.com/file/d/1LW59h9R8Myd7JdQ0t-GsHM1fYzs2fBYS/view?usp=sharing)
+
+### Session 15 - Commads for MySQL
+
+### Session 16 - DBMS(Definitions and Constraints)
+[PPT](https://drive.google.com/file/d/1nQNiKqPWn1kPfyeJIzBe7L7xsLubDyQk/view?usp=sharing)
